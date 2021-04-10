@@ -75,6 +75,7 @@ ul{
 	z-index: 2;
 	font-size: 1.5rem;
 	display: none;
+	color: black;
 }
 /*banner*/
 hr{
@@ -217,7 +218,7 @@ hr{
 		position: absolute;
 		top: 0;
 		left: 0;
-		background: #2f3640;
+		background: white;
 		height: 100%;
 		padding: 30px;
 		opacity: .9;
